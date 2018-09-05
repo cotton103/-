@@ -3,7 +3,7 @@ package main
 import(
 	"fmt"
 )
-
-func main(){
-	fmt.Println("Hello GO!")
+//入口函数
+func main(){  //左括号必须和函数名同行
+	fmt.Println("Hello GO!")//输出
 }
