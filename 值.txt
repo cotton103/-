@@ -1,0 +1,15 @@
+package main 
+import(
+	"fmt" 
+)
+func main(){
+
+ fmt.Println("go"+"long")
+ fmt.Println("1+1=",1+1)
+fmt.Println("go"+"long")
+ fmt.Println("6.0/2.0=",6.0/2.0)
+ fmt.Println(true&&false)//and
+ fmt.Println(true||false)//or
+ fmt.Println(!true)//·Ç
+}
+

@@ -1,0 +1,6 @@
+go build xxx.go
+ //编译go代码，生成一个可执行程序然后运行可执行程序 xxx
+cls
+//windows清屏命令
+go run xx.go
+  //不生成程序直接运行
